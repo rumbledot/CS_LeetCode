@@ -10,8 +10,14 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            int[] nums = { 1, 0};
-            MoveZeroes z = new MoveZeroes(nums);
+            char[] s = { 'h', 'e', 'l', 'l', 'o' };
+            char[] s1 = { 's', 'a', 'v', 'n', 'o', 'y' };
+
+            ReverseString rs = new ReverseString(s1);
+
+            rs.ReverseWord("Let's take LeetCode contest");
+            rs.ReverseWord("God Ding");
+
 
             Console.ReadLine();
         }

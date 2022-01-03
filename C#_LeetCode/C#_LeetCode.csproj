@@ -46,6 +46,7 @@
     <Compile Include="FindFirst.cs" />
     <Compile Include="LinkNode.cs" />
     <Compile Include="MoveZeroes.cs" />
+    <Compile Include="ReverseString.cs" />
     <Compile Include="SquareRoot.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
